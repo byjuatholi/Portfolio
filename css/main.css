@@ -3160,7 +3160,7 @@ ul.lead.toolList li:before {
 .animated .timeline-ico {
     transform: scale(1);
 }
-#credentials .timeline-header }
+#credentials .timeline-header{
     margin-bottom: 10px;
 }
 
