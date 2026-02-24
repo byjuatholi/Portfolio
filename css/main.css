@@ -2585,7 +2585,6 @@ _:-moz-tree-row(hover),
     border-right: 1px solid rgba(0, 0, 0, 0.5);
     width: 50%;
     filter: grayscale(100%);
-    background-image: url(  ../images/profile-bg2.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
