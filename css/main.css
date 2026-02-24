@@ -1808,11 +1808,11 @@ header .row {
 #header-menu-trigger {
     display: block;
     position: fixed;
-    right: 45px;
+    right: 20px;
     top: 10px;
-    height: 21px;
+    height: 26px;
     padding: 5px;
-    width: 22px;
+    width: 34px;
     line-height: 42px;
     font-family: "Josefin Sans", serif;
     font-size: 1.4rem;
@@ -1821,6 +1821,7 @@ header .row {
     color: rgba(255, 255, 255, 0.5);
     -webkit-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
+    border-radius: 3px;
 }
 
 #header-menu-trigger.opaque {
@@ -1850,8 +1851,8 @@ header .row {
 
 #header-menu-trigger .header-menu-icon {
     display: block;
-    height: 1px;
-    width: 12px;
+    height: 2px;
+    width: 24px;
     background-color: #FFFFF9;
     position: absolute;
     top: 48%;
@@ -1868,11 +1869,11 @@ header .row {
 }
 
 #header-menu-trigger .header-menu-icon::before {
-    top: -4px;
+    top: -6px;
 }
 
 #header-menu-trigger .header-menu-icon::after {
-    bottom: -4px;
+    bottom: -6px;
 }
 
 
