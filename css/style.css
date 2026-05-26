@@ -97,4 +97,9 @@ html, body, main {
     width: 240px;
     padding-top: 10px;
 }
+.home-bottom-text svg:not(:root) {
+	overflow: visible;
+  margin-bottom: 36px;
+}
+
 
