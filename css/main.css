@@ -2165,7 +2165,7 @@ body.loaded .textPath {
 @media only screen and (max-width: 768px) {
     .home-content-tablecell .row-alt {
         padding: 27vh 100px 0px 15vw;
-        background: rgba(0, 0, 0, .80);
+        background: rgba(0, 0, 0, .40);
     }
 }
 
